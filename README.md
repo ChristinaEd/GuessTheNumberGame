@@ -1,4 +1,4 @@
-# GuessTheNumberGame
+# Guess the Number Game
 Fully operational Java Spring Boot web application with console support, as well as i18n support.
 
 The Guess the Number Game is a simple Java Spring Boot application to demonstrate utilization of technologies such as Java Spring, Java Spring Boot, SLF4J,
